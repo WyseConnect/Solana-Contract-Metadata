@@ -1,0 +1,15 @@
+{
+  "key": 4,
+  "updateAuthority": "BfkB28FpB46tWM9VUKKFd9tcM12fbLj1CmWPT5kt3AP5",
+  "mint": "6HkMcaCTkdchYdcheq815o13j3zQQoN2otxiTSJGGUFr",
+  "data": {
+    "name": "Wyse Connect",
+    "symbol": "WYSE",
+    "uri": "https://ipfs.io/ipfs/QmQddj4Uj42HHF6SoY3ApuGpY6YpXj531cbnq6ndpaN4Gg",
+    "sellerFeeBasisPoints": 0
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 0,
+  "editionNonce": 253,
+  "tokenStandard": 2
+}
